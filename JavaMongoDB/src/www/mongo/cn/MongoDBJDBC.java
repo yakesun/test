@@ -7,7 +7,11 @@ import com.mongodb.client.FindIterable;
 import com.mongodb.client.MongoCollection;
 import com.mongodb.client.MongoCursor;
 import com.mongodb.client.MongoDatabase;
-
+/**
+ * 注释。。。
+ * @author Administrator
+ *
+ */
 public class MongoDBJDBC {
 
 		public static void main(String arg[]){
